@@ -92,7 +92,7 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-<a href="https://github.com/aidenpearce001">
+<a href="https://github.com/aidenpearce001/aidenpearce001">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aidenpearce001&theme=gruvbox&hide_border=true)](https://github.com/aidenpearce001" alt="Aiden GitHub Stats Graph"/>
 </a>
 <br><br>

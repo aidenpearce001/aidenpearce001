@@ -104,7 +104,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidenpearce001&theme=gruvbox" alt="Aiden's GitHub Streak Stats"/>
 </a>
 <br><br>
-<a href="https://github.com/aidenpearce001/aidenpearce001">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=aidenpearce001&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="aidenpearce001's GitHub Contributions Graph"/>
-</a>
 </div>
